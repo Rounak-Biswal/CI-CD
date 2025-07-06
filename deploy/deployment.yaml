@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: devops-demo
-        image: rounakbiswal/ci-cd:v1
+        image: rounakbiswal/ci-cd:v20250706212439
         ports:
         - containerPort: 80
